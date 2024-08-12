@@ -1,5 +1,8 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 added another line
 =======
 hi added change in development branch
 >>>>>>> issue1
+=======
+>>>>>>> parent of 6be2967 (added another line)
