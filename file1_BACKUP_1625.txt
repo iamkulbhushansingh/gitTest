@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-added another line
-=======
-hi added change in development branch
->>>>>>> issue1
